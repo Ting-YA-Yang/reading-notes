@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-dg-home: false
+dg-home: true
 ---
 ## 为什么在电子版PDF之外还有preface.pdf
 
