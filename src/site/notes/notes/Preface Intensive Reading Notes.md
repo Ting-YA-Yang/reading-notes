@@ -1,3 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/notes/Preface Intensive Reading Notes/"}
+---
+
+
+
 > [!PDF|red] [[preface.pdf#page=1&selection=4,46,4,56&color=red|preface, p.1]]
 > > journalism
 > 
