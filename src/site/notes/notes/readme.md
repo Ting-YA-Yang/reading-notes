@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/readme/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/notes/readme/"}
 ---
 
 ## 为什么在电子版PDF之外还有preface.pdf
