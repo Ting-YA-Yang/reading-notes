@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-home: true
+{"dg-publish":true,"permalink":"/notes/readme/","tags":["gardenEntry"]}
 ---
+
 ## 为什么在电子版PDF之外还有preface.pdf
 
 关于这本《禅与摩托车维修艺术》，我买了纸质版收藏，后面为了做笔记方便下载了电子版。
